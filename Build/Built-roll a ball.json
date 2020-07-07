@@ -1,0 +1,16 @@
+{
+"companyName": "Bushra Hina",
+"productName": "Roll-A-Ball",
+"productVersion": "0.1",
+"dataUrl": "Built-roll a ball.data.unityweb",
+"wasmCodeUrl": "Built-roll a ball.wasm.code.unityweb",
+"wasmFrameworkUrl": "Built-roll a ball.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#21404D",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.12f1"
+}
